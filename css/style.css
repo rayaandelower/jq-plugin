@@ -1,0 +1,22 @@
+body {
+}
+.c_w {
+  padding: 100px 0;
+  background: green;
+}
+.m_w h2 {
+  font-size: 60px;
+  font-weight: 700;
+}
+.paralax {
+  padding: 200px 0;
+}
+.c_1 {
+  font-size: 30px;
+}
+.text1 {
+  margin: 48px 0px;
+  overflow: hidden;
+  color: #010101;
+  background-color: #3fafee;
+}
